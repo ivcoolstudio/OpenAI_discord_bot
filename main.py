@@ -32,8 +32,8 @@ import requests
 user_last_message = {}
 
 # Устанавливаем токен и ключ от OpenAI
-TOKEN = 'MTEyMTg3NTg5ODkxNjkzNzc4MA.GPt_oT.F5ni-PO4dtV4K-ciNEW-Whlr5dNOOmYasoSdc4'
-API_KEY = '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'
+TOKEN = ''
+API_KEY = ''
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
